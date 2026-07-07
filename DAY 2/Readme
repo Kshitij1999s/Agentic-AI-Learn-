@@ -19,4 +19,7 @@ pip install ollama or python -m pip install ollama
 For last program
 pip install duckduckgo-search or python -m pip install duckduckgo-search
 
+to exit from AI chatbot
+Type :- "exit"
+
 Always execute ------ "python filename.py"
