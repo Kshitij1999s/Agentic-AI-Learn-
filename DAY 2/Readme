@@ -1,0 +1,22 @@
+Python Releases for Windows | Python.org  --------- Python Version 3.12 needed
+https://www.python.org/downloads/windows/
+
+Ollama - https://ollama.com
+
+Create Environment
+
+python -m venv env1
+it will create directory env1 (it will create a enviroment in local user path)
+see all directory - dir
+env1\Scripts\activate.bat  - to activate environment
+
+
+Libraries needed:-
+pip install langchain langchain-community or python -m pip install langchain langchain-community
+pip install langchain langchain-community langchain-core or python -m pip install langchain langchain-community
+pip install ollama or python -m pip install ollama
+
+For last program
+pip install duckduckgo-search or python -m pip install duckduckgo-search
+
+Always execute ------ "python filename.py"
